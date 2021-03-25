@@ -1,3 +1,15 @@
 .border-et{
     border:1px dotted red;
 }
+
+#btn-kontakt{
+    background-color: #FF9900;
+    color: white;
+    border-color: #FF9900;
+    border-radius: 0%;
+}
+
+#btn-kontakt:hover{
+    background-color: #ffffff;
+    color: #FF9900;
+}
