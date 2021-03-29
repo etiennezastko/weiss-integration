@@ -1,15 +1,33 @@
-.border-et{
-    border:1px dotted red;
+.border-et {
+  border: 1px dotted red;
 }
 
-#btn-kontakt{
-    background-color: #FF9900;
-    color: white;
-    border-color: #FF9900;
-    border-radius: 0%;
+#btn-kontakt {
+  background-color: #ff9900;
+  color: white;
+  border-color: #ff9900;
+  border-radius: 0%;
 }
 
-#btn-kontakt:hover{
-    background-color: #ffffff;
-    color: #FF9900;
+#btn-kontakt:hover {
+  background-color: #ffffff;
+  color: #ff9900;
+}
+.card-text {
+  color: #263640;
+}
+.subtitle {
+  color: #929a9f;
+}
+
+.btn-btn-primary {
+  border-color: #ff9900;
+  background-color: #ff9900;
+  color: #ffffff;
+}
+.card-text-1 {
+  color: #929a9f;
+}
+.image-align {
+  text-align: right;
 }
