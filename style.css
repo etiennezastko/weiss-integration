@@ -31,3 +31,22 @@
 .image-align {
   text-align: right;
 }
+
+.card-title {
+  color: #263640;
+}
+.card-text {
+  color: #929a9f;
+}
+
+.border-ad {
+  background-color: #263640;
+  padding: 12em;
+  max-width: 97%;
+
+  margin: 0 auto;
+}
+.white-title {
+  color: white;
+  padding: left;
+}

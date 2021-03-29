@@ -39,6 +39,8 @@
                 <p class="card-text-1">Wenn Sie zuverlâssige Ingenieure brauchen- das
                     Ingenieurbûro Dieter Weiss ist Garant fûr den Erlog Ihrer
                     Projekte</p>
+
+
             </div>
         </div>
     </div>
@@ -49,37 +51,56 @@
 <div class="row">
     <div class="col-sm-12 col-md-4">
         <div class="card">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="images/image-weiss-version-desktop/article-1.png" class="article-1.png" alt="...">
             <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <h5 class="card-title">Verkehrsanlagen und Ingernieurbauwerke</h5>
+                <p class="card-text">Neubau und Ausbau vo, Straßen,
+                    Verkehrsflâchen, Wasserwergen und Eisenvahnen erfordert ûberzeugende Verkehrskonzepte.</p>
             </div>
         </div>
     </div>
     <div class="col-sm-12 col-md-4">
         <div class="card">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="images/image-weiss-version-desktop/article-2.png" class="article-2.png" alt="articles-2">
             <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <h5 class="card-title">
+                    Studien und Konzepte, Gesamtplanung
+                    Vermessungswesen</h5>
+                <p class="card-text">Verkehrskonzepte sind ein entscheide
+                    Faktor jeglischer Infrastruktur. Das Ingenieurbûro Weiss hat deshalb ein Expertenteam aufgebaut</p>
             </div>
         </div>
     </div>
     <div class="col-sm-12 col-md-4">
         <div class="card">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="images/image-weiss-version-desktop/article-3.png" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <h5 class="card-title">Entwurfsvermessun, 3D-Laserscanning</h5>
+                <p class="card-text">Bei Ausfûhrung sâmtlicher
+                    vermessungtechischer Aufgaben im Leistungsbild,, Entwurfsvermessung” sind wir ein leistungsstarker Partner.</p>
             </div>
         </div>
     </div>
-</div>
+
+
+    <!-- Quatrième section -->
+    <div class="container-fluid">
+        <!-- contenant-->
+        <div class="row">
+            <!-- grilles de 12 unitées de large-->
+            <div class="col-md-12 col-sm-12 border-ad ">
+                <h5 class="white-title">Frame UNSERE FIRMENHISTORIE</h5>
+
+
+            </div>
+        </div>
+    </div>
 
 
 
 
 
-<!-- </div>
+
+    <!-- </div>
 </div> -->
-<?php include "footer.php"; ?>
+    <?php include "footer.php"; ?>
