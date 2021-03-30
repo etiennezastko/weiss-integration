@@ -39,14 +39,9 @@
   color: #929a9f;
 }
 
-.border-ad {
+.card-img-overlay {
   background-color: #263640;
-  padding: 12em;
-  max-width: 97%;
-
-  margin: 0 auto;
-}
-.white-title {
-  color: white;
-  padding: left;
+  border: 1px solid red;
+  width: 50%;
+  margin-right: 2em;
 }
