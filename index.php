@@ -84,14 +84,25 @@
 
 
     <!-- Quatrième section -->
-    <div class="card bg-dark text-white card-delimit ">
-        <img src="images/image-weiss-version-desktop/vector.png" class="card-img" alt="...">
-        <div class="card-img-overlay" style="max-width: 1296px">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-            <p class="card-text">Last updated 3 mins ago</p>
+    <div class="col-sm-12 col-md-10">
+        <div class=" parent ">
+            <div class="child">
+                <p class="card-subtitle">UNSERE
+                    FIRMENHISTORIE</p>
+                <h5 class="card-title-2 child">Diplom-Ingenieur Dieter Weiss grûndete im Jahre 1971 sein Ingenieurnûro.
+                </h5>
+                <p class="card-text-2">
+                    Fast 30 Jahre lang fûhrte er es als Alleinninhaber. 1998 trat Sohn Klaus weiss als Stellvertreter an die Seite seines Vaters. Seit 2006 ist Diplom-Ingenieur Klauss Weiss alleiniger Gesvhâftsfûhrer.</p>
+                <img src="images/image-weiss-version-desktop/image-3.png" alt="" class="test">
+            </div>
+            <div class="child">
+                <img src="images/image-weiss-version-desktop/vector.png" alt="">
+            </div>
         </div>
     </div>
+
+
+
 
 
 
