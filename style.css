@@ -1,3 +1,9 @@
+@import url("http://fonts.cdnfonts.com/css/din-pro-cond");
+
+main {
+  font-family: "DIN Pro Medium", sans-serif;
+}
+
 .border-et {
   border: 1px dotted red;
 }
@@ -62,7 +68,7 @@
 }
 .card-title-2 {
   color: white;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 .card-text-2 {
   color: white;
