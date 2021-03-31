@@ -85,20 +85,39 @@ main {
 .card-text-5 {
   text-align: left;
   color: #929a9f;
+  font-size: 1rem;
 }
-
+.card-text-end {
+  width: 120%;
+}
+* {
+  border: 1px dotted grey;
+}
 #margin-card {
   margin-bottom: 17em;
 }
-.btn-bottom {
-  text-align: right;
-}
+
 .margin-card-2 {
-  width: 60%;
+  width: 100%;
+}
+#section-5__button {
+  color: white;
 }
 
-.btn-btn-primary {
-  border-color: #ff9900;
-  background-color: #ff9900;
-  color: #ffffff;
+.guideline {
+  border: 1px dotted transparent;
 }
+@media screen and (max-width: 768px) {
+  .child img {
+    display: none;
+  }
+  .card-subtitle,
+  .card-title-2,
+  .card-text-2 {
+    color: black;
+  }
+  #margin-card {
+    background: url("images/image-weiss-version-desktop/image-3.png") no-repeat;
+    background-position: center;
+  }
+
