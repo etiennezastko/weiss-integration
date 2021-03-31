@@ -78,3 +78,27 @@ main {
   color: #929a9f;
   margin-bottom: 0.5em;
 }
+
+.card-title {
+  text-align: left;
+}
+.card-text-5 {
+  text-align: left;
+  color: #929a9f;
+}
+
+#margin-card {
+  margin-bottom: 17em;
+}
+.btn-bottom {
+  text-align: right;
+}
+.margin-card-2 {
+  width: 60%;
+}
+
+.btn-btn-primary {
+  border-color: #ff9900;
+  background-color: #ff9900;
+  color: #ffffff;
+}

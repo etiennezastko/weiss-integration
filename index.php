@@ -32,10 +32,8 @@
         <div class="col-md-6">
             <div class="card-body">
                 <p class="subtitle">INGENIEUR DIETER WEISS </p>
-
                 <h2 class="card-title">
                     Ingenieurbûro fûr Bau- und Vermessungswesen</h2>
-
                 <p class="card-text-1">Wenn Sie zuverlâssige Ingenieure brauchen- das
                     Ingenieurbûro Dieter Weiss ist Garant fûr den Erlog Ihrer
                     Projekte</p>
@@ -85,7 +83,7 @@
 
     <!-- Quatrième section -->
     <div class="col-sm-12 col-md-10">
-        <div class=" parent ">
+        <div class="parent" id="margin-card">
             <div class="child">
                 <p class="card-subtitle">UNSERE
                     FIRMENHISTORIE</p>
@@ -98,8 +96,24 @@
             <div class="child">
                 <img src="images/image-weiss-version-desktop/vector.png" alt="">
             </div>
+
         </div>
-    </div>
+        <!--Cinquieme Section -->
+        <div class="card-text-end" style="width: 1296px">
+            <div class="card-body-9 card-align">
+                <div class="margin-card-2">
+                    <h5 class="card-title">Winssenswertes </h5>
+                    <p class="card-text-5">
+                        Winssenswertes
+                        Integer massa urna senectus maecenas in dapibus urna amet henderitt. In Ipsum, morbi amet aenan. laculis donec sem nullam nunc condimentum nisl non gravida in.
+                        UNSERE LETZEN BEITRÄGE
+
+                    </p>
+                </div>
+                <div class="btn-bottom"><a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
 
 
 
@@ -108,6 +122,9 @@
 
 
 
-    <!-- </div>
+
+
+
+        <!-- </div>
 </div> -->
-    <?php include "footer.php"; ?>
+        <?php include "footer.php"; ?>
