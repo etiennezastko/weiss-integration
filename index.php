@@ -15,7 +15,7 @@
                     Ingenieurbûro Dieter Weiss ist Garant fûr den Erlog Ihrer
                     Projekte</p>
 
-                <button class="btn-btn-primary" type="submit">Ihr Projekt mituns</button>
+                <button class="btn-btn-primary section_button-1" type="submit">Ihr Projekt mituns</button>
             </div>
         </div>
         <div class="col-md-6 image-align guideline">
@@ -99,19 +99,19 @@
 
         </div>
         <!--Cinquieme Section -->
-        <div class="card-text-end pt-5 pb-5 guideline" style="width: 120%">
-            <div class="card-body-9 card-align d-flex justify-content-between align-items-end">
+        <div class="card-text-end pt-5 pb-5 guideline ">
+            <div class="card-body-9 card-align d-flex justify-content-between align-items-end card-media">
 
-                <div class="margin-card-2 guideline">
+                <div class="margin-card-2 guideline card-full-2">
                     <h5 class="card-title">Winssenswertes </h5>
                     <p class="card-text-5">
                         Winssenswertes
                         Integer massa urna senectus maecenas in dapibus urna amet henderitt. In Ipsum, morbi amet aenan. laculis donec sem nullam nunc condimentum nisl non gravida in.
-                        UNSERE LETZEN BEITRÄGE
+
                     </p>
                 </div>
                 <div>
-                    <button type="button" class="btn btn-warning" id="section-5__button">Go somewhere</button>
+                    <button type="button" class="btn btn-warning section-5__button">Go somewhere</button>
                 </div>
 
             </div>
@@ -123,31 +123,34 @@
         <div class="col-sm-4">
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title section-6-title">Sed eget morbi cursus elit ipsum pellentesque</h5>
+                    <p class="card-text-6">Pellentesque mauris arcu nec, Duis sebectus cras semper cursus bibendum phasellus vehicula pottitor...</p>
+                    <button type="button" class="btn btn-link link-left ">Lesen Sie weiter ></button>
                 </div>
             </div>
         </div>
         <div class="col-sm-4">
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title section-6-title">Urna velit semper faucibus ac suspendisse et</h5>
+                    <p class="card-text-6">In nibh solales ticindut vitae tortor. Turpis aliquam mattis eget cursus billendum interdum vestibulum, aliquam Fringilla malesuada</p>
+                    <button type="button" class="btn btn-link link-left ">Lesen Sie weiter ></button>
                 </div>
             </div>
         </div>
         <div class="col-sm-4">
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title section-6-title">Bilbendum augue imperdiet sapien quis enim elementum</h5>
+                    <p class="card-text-6">Facilis id mus at pulvinar vitae, ornare vitae scelerisque. Lacus egestas augue cursus aliquam nulla. Sac erat a scelerisque neque..</p>
+                    <button type="button" class="btn btn-link link-left ">Lesen Sie weiter ></button>
                 </div>
             </div>
         </div>
     </div>
+
+
+
 
 
 

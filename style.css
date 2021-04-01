@@ -1,9 +1,9 @@
 @import url("http://fonts.cdnfonts.com/css/din-pro-cond");
-
+/*Font*/
 main {
   font-family: "DIN Pro Medium", sans-serif;
 }
-
+/*Section-1*/
 .border-et {
   border: 1px dotted red;
 }
@@ -26,10 +26,10 @@ main {
   color: #929a9f;
 }
 
-.btn-btn-primary {
+.section_button-1 {
   border-color: #ff9900;
   background-color: #ff9900;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 .card-text-1 {
   color: #929a9f;
@@ -82,32 +82,58 @@ main {
 .card-title {
   text-align: left;
 }
-.card-text-5 {
-  text-align: left;
-  color: #929a9f;
-  font-size: 1rem;
-}
+
 .card-text-end {
   width: 120%;
 }
-* {
+
+ {
   border: 1px dotted grey;
 }
+
 #margin-card {
   margin-bottom: 17em;
 }
 
 .margin-card-2 {
-  width: 100%;
+  width: 45%;
 }
-#section-5__button {
+
+.card-text-5 {
+  text-align: left;
+  color: #929a9f;
+}
+
+.section-5__button {
   color: white;
+  padding: 0 !important;
+  background-color: #ff9900;
+  margin-right: 0.8em;
+}
+
+.section-5__button:hover {
+  background-color: #ff9900;
+}
+
+.card-text-6 {
+  color: #929a9f;
+}
+
+.btn-btn-primary {
+  color: #ff9900;
+}
+
+.link-left {
+  color: #ff9900;
+  margin-left: 15em;
 }
 
 .guideline {
   border: 1px dotted transparent;
 }
+
 @media screen and (max-width: 768px) {
+  /*Section 4*/
   .child img {
     display: none;
   }
@@ -120,4 +146,12 @@ main {
     background: url("images/image-weiss-version-desktop/image-3.png") no-repeat;
     background-position: center;
   }
-
+  /*Section 5*/
+  .card-text-end {
+    width: 100%;
+  }
+  .section-5__button {
+    position: absolute;
+    right: 0.5rem;
+  }
+}
