@@ -87,10 +87,6 @@ main {
   width: 120%;
 }
 
- {
-  border: 1px dotted grey;
-}
-
 #margin-card {
   margin-bottom: 17em;
 }
@@ -132,6 +128,11 @@ main {
   border: 1px dotted transparent;
 }
 
+.subtitle_section-7 {
+  color: #929a9f;
+  font-size: 0.8em;
+}
+
 @media screen and (max-width: 768px) {
   /*Section 4*/
   .child img {
@@ -154,4 +155,20 @@ main {
     position: absolute;
     right: 0.5rem;
   }
+  /*Section 6*/
+}
+
+.card-text-5 {
+  max-width: 30rem;
+}
+
+.autre {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }

@@ -111,7 +111,7 @@
                     </p>
                 </div>
                 <div>
-                    <button type="button" class="btn btn-warning section-5__button">Go somewhere</button>
+                    <button type="button" class="btn btn-warning section-5__button">Unser Blog</button>
                 </div>
 
             </div>
@@ -148,6 +148,24 @@
             </div>
         </div>
     </div>
+    <div class="card-text-end pt-5 pb-5 guideline ">
+        <div class="card-body-9 card-align d-flex justify-content-between align-items-end card-media">
+
+            <!--7ème section-->
+            <div class=" guideline card-full-3 autre">
+                <div class="text">
+                    <p class="subtitle_section-7">
+                        MACH KARRIERE BEI UNIS</p>
+                    <h5 class="card-title">Bewirb dich bei uns </h5>
+                    <p class="card-text-5">
+                        Lorem ipsum dolor sit amet, consecteur adipiscing elit,sed do eiusmod tempor incididunt ut labore el dolor
+                </div>
+                <div class="row">
+                    <img src="images/image-weiss-version-desktop/image.png" alt="" class="image">
+
+                </div>
+            </div>
+        </div>
 
 
 
@@ -157,6 +175,9 @@
 
 
 
-    <!-- </div>
+
+
+
+        <!-- </div>
 </div> -->
-    <?php include "footer.php"; ?>
+        <?php include "footer.php"; ?>
