@@ -157,7 +157,6 @@ main {
   }
   /*Section 6*/
 }
-
 .card-text-5 {
   max-width: 30rem;
 }
@@ -171,4 +170,17 @@ main {
 img {
   width: 100%;
   height: auto;
+}
+
+/*Footer*/
+
+.footer {
+  background-color: #263640;
+  padding-right: 5rem;
+  padding-left: 5rem;
+}
+
+.footer {
+  padding-right: 5rem;
+  padding-left: 5rem;
 }
